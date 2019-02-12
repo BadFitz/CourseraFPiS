@@ -1,0 +1,223 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\common\package$.class
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\common\package.class
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\recfun\Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\recfun\Main$$anonfun$main$1.class
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\recfun\Main$.class
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\recfun\Main.class
+binary dependencies:
+4 items
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> C:\Program Files\Java\jre1.8.0_191\lib\rt.jar
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> C:\Users\df27533\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> C:\Program Files\Java\jre1.8.0_191\lib\rt.jar
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> C:\Users\df27533\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> common.package
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> common.package$
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> recfun.Main
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> recfun.Main$
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> recfun.Main$$anonfun$main$1
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> recfun.Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1
+used names:
+113 items
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> ::
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> <init>
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> <repeated>
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> ?0
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> A
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Any
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> AnyRef
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> B
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Boolean
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Class
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> File
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> FileInputStream
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Function2
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> InputStream
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> List
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> None
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Nothing
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Object
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Option
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Predef
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> Some
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> String
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> URI
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> URL
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> _root_
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> child
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> children
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> classesDir
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> common
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> exists
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> file
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> foldLeft
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> getClass
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> getParentFile
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> getResource
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> io
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> java
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> package
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> projectDir
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> resourceFile
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> resourcePath
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> scala
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> subFile
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> toURI
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> +
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> -
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> ::
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> <
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> <init>
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> ==
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> >
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Any
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> AnyRef
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Array
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Boolean
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Char
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Function1
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Inclusive
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Int
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> List
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Main
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> MatchError
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Nil
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Nothing
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Object
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Predef
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Range
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> RichInt
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> String
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> T0
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> T1
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> T2
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Tuple2
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> U
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> Unit
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> _1
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> _2
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> _root_
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> a
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> acc
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> annotation
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> apply
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> asInstanceOf
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> b
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> c
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> chars
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> coins
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> col
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> countChange
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> f
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> foreach
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> h
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> head
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> helper
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> immutable
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> intWrapper
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> isInstanceOf
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> level
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> loop
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> m
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> money
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> ne
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> package
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> pascal
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> print
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> println
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> r
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> recfun
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> row
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> scala
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> t
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> tailrec
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> to
+product stamps:
+7 items
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1548719894382)
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\common\package$.class -> lastModified(1548719894368)
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\common\package.class -> lastModified(1548719894305)
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\recfun\Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1548799415804)
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\recfun\Main$$anonfun$main$1.class -> lastModified(1548799415795)
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\recfun\Main$.class -> lastModified(1548799415785)
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\target\scala-2.11\classes\recfun\Main.class -> lastModified(1548799415716)
+source stamps:
+2 items
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> hash(3d6123cb131a01ace28e5711ffd7fd74cb6f515f)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_191\lib\rt.jar -> lastModified(1547565579916)
+C:\Users\df27533\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_191\lib\rt.jar -> java.lang.Object
+C:\Users\df27533\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.collection.immutable.Range
+internal apis:
+2 items
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWiW5iU3dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVZk7ngAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC2fcLnQABm5vdGlmeXNxAH4ADAIGXC10AAR3YWl0c3EAfgAMrdlCk3QADSRhc0luc3RhbmNlT2ZzcQB+AAzVlXpCdAAGZXF1YWxzc3EAfgAMhZr0HnQADGFzSW5zdGFuY2VPZnNxAH4ADCGHX/R0AAxzeW5jaHJvbml6ZWRzcQB+AAy3/DE+dAANJGlzSW5zdGFuY2VPZnNxAH4ADDS3vK10AAZwYXNjYWxzcQB+AAxAZTOfdAAHYmFsYW5jZXNxAH4ADMKY9XB0AARtYWluc3EAfgAM6NBSUXQACW5vdGlmeUFsbHNxAH4ADEuighB0AAxpc0luc3RhbmNlT2ZzcQB+AAz8SaHwdAACPT1zcQB+AAz2YPj3dAAFY2xvbmVzcQB+AAwtiSn5dAAETWFpbnNxAH4ADCz+Jph0AAh0b1N0cmluZ3NxAH4ADHGeEKR0AAIhPXNxAH4ADMlyfQh0AAhnZXRDbGFzc3NxAH4ADAcUSth0AAtjb3VudENoYW5nZXNxAH4ADGmo8zt0AAJuZXNxAH4ADAgh29J0AAJlcXNxAH4ADKa1c8R0AANzdW1zcQB+AAy7FygLdAACIyNzcQB+AAxTffQCdAAIZmluYWxpemVzcQB+AAw9hpqQdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAALcmVjZnVuLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHEAfgAhdXEAfgBZAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AdVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZXNxAH4AdHQABUFycmF5cQB+AHp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AdHQABlN0cmluZ3NxAH4AeHNxAH4Ae3VxAH4AfgAAAANzcQB+AIB0AARqYXZhc3EAfgCAdAAEbGFuZ3EAfgCFc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4AmQAAAAJzcQB+AHR0AAZPYmplY3RxAH4AnXNxAH4AdHQAA0FueXEAfgB6dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcmVjZnVuc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFom6OQeXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE1DOlx3b3JrQUhURFxkZjI3NTMzXENvdXJzZXJhXEZQaW5TY2FsYVx3ZWVrMVxyZWNmdW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD1hI8sTGgGs4o5XEf/X/XTLb1Ff
+external apis:
+0 items
+source infos:
+2 items
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\workAHTD\df27533\Coursera\FPinScala\week1\recfun\src\main\scala\recfun\Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+10 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJbmJTd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJbnOWp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJbnk951cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJoHfJ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJoNC8t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJoQlb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJoRIZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJoR+qx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJoxseV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaJujkHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XHdvcmtBSFREXGRmMjc1MzNcQ291cnNlcmFcRlBpblNjYWxhXHdlZWsxXHJlY2Z1blx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
